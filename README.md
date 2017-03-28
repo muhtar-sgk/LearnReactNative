@@ -1,3 +1,2 @@
-# HelloWorld
-HelloWorld -> Sample project show HelloWorld
+# LearnReactNative
 Splash -> sample project show splash screen image
