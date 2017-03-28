@@ -1,3 +1,3 @@
 # HelloWorld
-first project of react-native
-the content project is just show 'Hello World'
+HelloWorld -> Sample project show HelloWorld
+Splash -> sample project show splash screen image
